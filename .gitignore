@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Tests
+.pytest_cache/
+
+# IDE
+.vscode/
+
+# Environnement
+.env
+
+# Bases de données locales
+*.db
+*.sqlite
+*.sqlite3
